@@ -1,5 +1,5 @@
 # discord.sh
-script for installing discord from tarball (tar.gz)
+script for installing discord from tarball (tar.gz), can be used for updating as well
 
 how to use?
 ```bash
